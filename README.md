@@ -8,7 +8,7 @@
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 
-### Features
+### 💡 Features
 
 - [x] Pick image from local repository
 - [x] Share image
